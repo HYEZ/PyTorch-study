@@ -2,7 +2,6 @@
 - 스터디 시작 : 
 - 스터디 목적 : PyTorch 공부
 
-<img width="400" alt="main" src="https://user-images.githubusercontent.com/21326503/102883655-b60b3080-4493-11eb-96a5-8686248d474f.png">
 
 ## 목차 (Table of Contents)
 |챕터|이름|시작일|종료일|
