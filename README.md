@@ -2,6 +2,7 @@
 - 스터디 시작 : 2020.12.28
 - 스터디 목적 : PyTorch 공부
 
+<img width="400" alt="main" src="https://miro.medium.com/max/1200/1*4br4WmxNo0jkcsY796jGDQ.jpeg">
 
 ## 목차 (Table of Contents)
 |챕터|이름|시작일|종료일|
