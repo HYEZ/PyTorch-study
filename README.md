@@ -9,7 +9,7 @@
 |:---:|:---|:---:|:---:|
 |1|[파이토치기초](./ch1_파이토치기초/)|20.12.28|20.12.28|
 |2|[선형 회귀(Linear Regression)](./ch2_선형회귀/)|20.12.28|20.12.29|
-|3|[로지스틱 회귀(Logistic Regression)](./ch3_로지스틱회귀/)|20.12.30|-|
+|3|[로지스틱 회귀(Logistic Regression)](./ch3_로지스틱회귀/)|20.12.30|20.12.30|
 |4|[소프트맥스 회귀(Softmax Regression)](./ch4_소프트맥스회귀/)|-|-|
 |5|[인공 신경망(Aritificial Neural Network)](./ch5_인공신경망/)|-|-|
 |6|[합성곱 신경망(Convolutional Neural Network)](./ch6_합성곱신경망/)|-|-|
