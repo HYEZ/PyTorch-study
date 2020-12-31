@@ -12,7 +12,7 @@
 |3|[로지스틱 회귀(Logistic Regression)](./ch3_로지스틱회귀/)|20.12.30|20.12.30|
 |4|[소프트맥스 회귀(Softmax Regression)](./ch4_소프트맥스회귀/)|20.12.30|20.12.30|
 |5|[인공 신경망(Aritificial Neural Network)](./ch5_인공신경망/)|20.12.31|20.12.31|
-|6|[합성곱 신경망(Convolutional Neural Network)](./ch6_합성곱신경망/)|20.12.31|-|
+|6|[합성곱 신경망(Convolutional Neural Network)](./ch6_합성곱신경망/)|20.12.31|20.12.31|
 |7|[자연어 처리의 전처리](./ch7_자연어처리의_전처리/)|-|-|
 |8|[단어의 표현 방법](./ch8_단어의_표현방법/)|-|-|햐
 |9|[순환 신경망(Recurrent Neural Network)](./ch9_순환신경망/)|-|-|
