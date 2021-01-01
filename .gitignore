@@ -141,3 +141,5 @@ results/
 dataset
 Mecab-ko-for-Google-Colab/
 */Mecab-ko-for-Google-Colab/
+*/*.csv
+*.csv
