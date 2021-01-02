@@ -144,3 +144,4 @@ Mecab-ko-for-Google-Colab/
 */*.csv
 *.csv
 models/
+.*
