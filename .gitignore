@@ -145,3 +145,4 @@ Mecab-ko-for-Google-Colab/
 *.csv
 models/
 .*
+snapshot/
